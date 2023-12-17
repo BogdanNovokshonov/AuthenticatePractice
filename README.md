@@ -1,5 +1,5 @@
 # AuthenticatePractice
-Моя практика написания аутентификации, первоначально выводилась админка, теперь же с помощью переопределения Django направляет Вас на такие html шаблоны.
+Моя практика написания аутентификации, первоначально выводилась админка, теперь же с помощью переопределения Django направляет Вас на страницу авторизации.
 ![image](https://github.com/BogdanNovokshonov/AuthenticatePractice/assets/120629135/360cb976-0f93-46b1-a9e6-8570673ce28b)
 ![image](https://github.com/BogdanNovokshonov/AuthenticatePractice/assets/120629135/1c91e895-2fda-4b90-af3a-65590526ea19)
 ![image](https://github.com/BogdanNovokshonov/AuthenticatePractice/assets/120629135/871ba738-5551-4981-b5fe-664eead60d7c)
